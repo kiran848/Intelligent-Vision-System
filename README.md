@@ -42,8 +42,8 @@ kiran848/
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/<USERNAME>/kiran848.git
-cd kiran848
+git clone https://github.com/kiran848/Intelligent-Vision-System.git
+cd Intelligent-Vision-System
 ````
 
 2. Install dependencies:
@@ -72,7 +72,7 @@ python chest.py
 
 ## 📚 Research Paper Reference
 
-Sharma, A., Khangarot, D., Kiran, A., Sharma, A., Birla, A.,
+Anand Sharma, Anjali Sharma , Diksha Khangarot , Kiran ,Aishna Birla 
 *"K-ADAA: Intelligent Vision System for Designing Personalized Apparel,"*
 Procedia Computer Science, Volume 259, 2025, Pages 1543-1552.
 [DOI: 10.1016/j.procs.2025.04.109](https://doi.org/10.1016/j.procs.2025.04.109)
